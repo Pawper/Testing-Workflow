@@ -1,8 +1,8 @@
 # Testing Workflow
 
-[//]: # TODO Testing in markdown
+[//]: # TODO Testing in markdown - update
 [//]: # BODY Here's a description
 [//]: # BODY
-[//]: # BODY - [ ] Unchecked item
+[//]: # BODY - [x] This is now checked
 [//]: # BODY
 [//]: # BODY - [x] Checked item
