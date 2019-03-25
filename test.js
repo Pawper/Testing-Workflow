@@ -20,3 +20,14 @@
  * @body - [x] This one's done<br>
  * @body blahblah
  */
+
+  /**
+ * @todo Verify if multiline works with empty line & checkboxes & mutliple tags
+ * @body Testing more for GitHub's todo app for checkboxes  
+ * @body
+ * @body - [ ] Here's a checkbox?  
+ * @body
+ * @body - [x] This one's done  
+ * @body
+ * @body blahblah  
+ */
